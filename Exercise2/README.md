@@ -30,16 +30,7 @@ Students can then submit assignments, and the system maintains logs of all activ
   Used to create `Student`, `Classroom`, and `Assignment` objects consistently.
 
 ---
-## 📂 Project Structure
-Exercise2/
-│── README.md
-│── VirtualClassApplication.java # Main application
-│── ClassroomManager.java # Singleton manager for classrooms
-│── Classroom.java # Classroom class with students and assignments
-│── Student.java # Observer class (students receive notifications)
-│── Assignment.java # Assignment entity
-│── Factory.java # Factory class to create objects
-│── Observer.java # Observer interface
+
 
 ## ▶️ How to Run
 
